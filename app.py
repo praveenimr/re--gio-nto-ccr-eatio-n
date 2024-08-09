@@ -128,7 +128,7 @@ def figures():
     return "FIGURES GO HERE"
 
 def main():
-    st.title("Global TOC Generator")
+    st.title("Region TOC Generator")
 
     st.sidebar.header("Upload Excel File")
     uploaded_file = st.sidebar.file_uploader("Choose a file", type="xls")
