@@ -2,4 +2,4 @@ html2text
 pandas
 progressbar2
 streamlit
-xlrd
+xlrd    
