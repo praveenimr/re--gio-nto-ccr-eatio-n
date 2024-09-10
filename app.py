@@ -8,6 +8,7 @@ import progressbar
 PASSWORD = "Swati@IMR8180"
 
 
+
 def part1(keyword):
     ch1 = ("<strong>\nChapter 1: Introduction</strong>\n\t1.1 Scope and Coverage"
           +"\n\n<strong>Chapter 2:Executive Summary</strong>")
