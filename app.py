@@ -5,6 +5,20 @@ from io import StringIO
 import pandas as pd
 import progressbar
 
+st.markdown(
+     """
+    <style>
+    header[data-testid="stHeader"] {
+        display: none;
+    }
+    .css-1u7wa8r.e1tzin5v3 {
+        display: none;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 PASSWORD = "Swati@IMR8180"
 
 
