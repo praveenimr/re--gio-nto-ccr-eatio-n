@@ -18,7 +18,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-PASSWORD = "Swati@IMR8180"
+PASSWORD = "Swati@imr8081"
 
 
 def part1(keyword):
